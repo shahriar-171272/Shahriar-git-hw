@@ -1,0 +1,3 @@
+char* shahriar(){
+    return “shahriar”;
+}
